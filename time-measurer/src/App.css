@@ -1,10 +1,10 @@
-/* * {
-  background-color: #282c34;
-} */
+body {
+  background-color: #282c34 !important;
+}
 
 .App {
   text-align: center;
-  background-color: #282c34;
+  /* background-color: #282c34; */
 }
 
 .clock {
@@ -16,16 +16,16 @@
 
 
 
-  .menu-btn {
-    /* height: 20px;
-    width: 40px; */
-    margin: 1em;
-    /* position: absolute; */
-    /* top: 0; left: 0; bottom: 0; right: 0; */
-    padding-top: 0px;
-    font-family: courier, monospace;
-    color: white;
-    font-size: 30px;
+.menu-btn {
+  /* height: 20px;
+  width: 40px; */
+  margin: 1em;
+  /* position: absolute; */
+  /* top: 0; left: 0; bottom: 0; right: 0; */
+  padding-top: 0px;
+  font-family: courier, monospace;
+  color: white;
+  font-size: 30px;
 }
 
 /* The Overlay (background) */

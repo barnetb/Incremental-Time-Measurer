@@ -23,7 +23,7 @@ export default class Menu extends Component {
 
     render() {
         return (
-            <div>
+            <div class="overlay-menu">
                 <div style={{ textAlign: "left"}}>
                     <span class="menu-btn" style={{ fontSize: "30px", cursor: "pointer"}} onClick={() => this.openMenu()}>&#9776; Menu</span>
                 </div>
