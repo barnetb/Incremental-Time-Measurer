@@ -33,10 +33,10 @@ export default class Menu extends Component {
                     <a href="javascript:void(0)" class="closebtn" onClick={() => this.closeMenu()}>&times;</a>
                     {/* overlay content */}
                     <div class="overlay-content">
-                        <a href="javascript:void(0)">About</a>
-                        <a href="javascript:void(0)">Services</a>
-                        <a href="javascript:void(0)">Clients</a>
-                        <a href="javascript:void(0)">Contact</a>
+                        <a href="#">About</a>
+                        <a href="#">Services</a>
+                        <a href="#">Clients</a>
+                        <a href="#">Contact</a>
                     </div>
                 </div>
                 {/* <span onclick="openNav()">open</span> */}
